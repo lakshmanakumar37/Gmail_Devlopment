@@ -3,3 +3,5 @@ Author:Lakshman
 1.Signup
 2.Login
 3.Inbox
+4.Send/Receive mails
+5.Delete mails
